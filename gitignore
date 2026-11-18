@@ -1,0 +1,10 @@
+# Large / regenerable data (rebuild with prepare_dataset.py and feature_engineering.py)
+dataset.csv
+features.csv
+all.jsonl
+
+# Python / OS
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
