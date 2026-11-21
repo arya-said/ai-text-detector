@@ -4,6 +4,9 @@ Detects ChatGPT-written text from *how* it is written (stylometric features such
 
 **Gradient Boosting reaches 96.2% test accuracy (ROC-AUC 0.990) on 1,207 held-out texts. With all length-related features removed it still reaches 93.0%**, so most of the signal comes from writing style, not text length.
 
+| ![App screenshot 1](WhatsApp%20Image%202026-11-21%20at%2010.55.15.jpeg) | ![App screenshot 2](WhatsApp%20Image%202026-11-21%20at%2010.55.40.jpeg) |
+|---|---|
+
 Built as a group project for the Machine Learning Lab at MIT World Peace University, Pune.
 
 ## How it works
